@@ -1,0 +1,19 @@
+{
+  "name": "image-gallery",
+  "version": "1.0.0",
+  "description": "A simple image gallery application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.21.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.7.0",
+    "react-router-dom": "^6.26.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
